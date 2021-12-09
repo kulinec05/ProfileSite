@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ProfileSite/static/css/main.9e998790.chunk.css",
-    "main.js": "/ProfileSite/static/js/main.57d93209.chunk.js",
-    "main.js.map": "/ProfileSite/static/js/main.57d93209.chunk.js.map",
-    "runtime-main.js": "/ProfileSite/static/js/runtime-main.e1efb73b.js",
-    "runtime-main.js.map": "/ProfileSite/static/js/runtime-main.e1efb73b.js.map",
+    "main.js": "/ProfileSite/static/js/main.5ab090e8.chunk.js",
+    "main.js.map": "/ProfileSite/static/js/main.5ab090e8.chunk.js.map",
+    "runtime-main.js": "/ProfileSite/static/js/runtime-main.d5f3b5dd.js",
+    "runtime-main.js.map": "/ProfileSite/static/js/runtime-main.d5f3b5dd.js.map",
     "static/css/2.0a9ec390.chunk.css": "/ProfileSite/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.6e4ff491.chunk.js": "/ProfileSite/static/js/2.6e4ff491.chunk.js",
-    "static/js/2.6e4ff491.chunk.js.map": "/ProfileSite/static/js/2.6e4ff491.chunk.js.map",
-    "static/js/3.5c9a136d.chunk.js": "/ProfileSite/static/js/3.5c9a136d.chunk.js",
-    "static/js/3.5c9a136d.chunk.js.map": "/ProfileSite/static/js/3.5c9a136d.chunk.js.map",
+    "static/js/2.b54e5d84.chunk.js": "/ProfileSite/static/js/2.b54e5d84.chunk.js",
+    "static/js/2.b54e5d84.chunk.js.map": "/ProfileSite/static/js/2.b54e5d84.chunk.js.map",
+    "static/js/3.a96ea1fa.chunk.js": "/ProfileSite/static/js/3.a96ea1fa.chunk.js",
+    "static/js/3.a96ea1fa.chunk.js.map": "/ProfileSite/static/js/3.a96ea1fa.chunk.js.map",
     "index.html": "/ProfileSite/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/ProfileSite/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.9e998790.chunk.css.map": "/ProfileSite/static/css/main.9e998790.chunk.css.map",
-    "static/js/2.6e4ff491.chunk.js.LICENSE.txt": "/ProfileSite/static/js/2.6e4ff491.chunk.js.LICENSE.txt",
+    "static/js/2.b54e5d84.chunk.js.LICENSE.txt": "/ProfileSite/static/js/2.b54e5d84.chunk.js.LICENSE.txt",
     "static/media/begin.f74e2696.jpg": "/ProfileSite/static/media/begin.f74e2696.jpg",
     "static/media/books.3be8226b.svg": "/ProfileSite/static/media/books.3be8226b.svg",
     "static/media/cafe.70f8e86d.svg": "/ProfileSite/static/media/cafe.70f8e86d.svg",
@@ -23,10 +23,10 @@
     "static/media/todolist.93785eeb.svg": "/ProfileSite/static/media/todolist.93785eeb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1efb73b.js",
+    "static/js/runtime-main.d5f3b5dd.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.6e4ff491.chunk.js",
+    "static/js/2.b54e5d84.chunk.js",
     "static/css/main.9e998790.chunk.css",
-    "static/js/main.57d93209.chunk.js"
+    "static/js/main.5ab090e8.chunk.js"
   ]
 }
